@@ -1,0 +1,1 @@
+// (Full code from canvas is already known, no need to truncate)
